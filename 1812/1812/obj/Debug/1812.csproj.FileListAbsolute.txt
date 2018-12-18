@@ -1,0 +1,7 @@
+F:\GitHub\Repos\HoreaOros\FP2018\1812\1812\obj\Debug\1812.csproj.CoreCompileInputs.cache
+F:\GitHub\Repos\HoreaOros\FP2018\1812\1812\bin\Debug\1812.exe.config
+F:\GitHub\Repos\HoreaOros\FP2018\1812\1812\bin\Debug\1812.exe
+F:\GitHub\Repos\HoreaOros\FP2018\1812\1812\bin\Debug\1812.pdb
+F:\GitHub\Repos\HoreaOros\FP2018\1812\1812\obj\Debug\1812.exe
+F:\GitHub\Repos\HoreaOros\FP2018\1812\1812\obj\Debug\1812.pdb
+F:\GitHub\Repos\HoreaOros\FP2018\1812\1812\obj\Debug\1812.csprojAssemblyReference.cache
