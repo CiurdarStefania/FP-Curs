@@ -1,0 +1,7 @@
+F:\Facultate\FP-curs\tema 1\tema 1\bin\Debug\tema 1.exe.config
+F:\Facultate\FP-curs\tema 1\tema 1\bin\Debug\tema 1.exe
+F:\Facultate\FP-curs\tema 1\tema 1\bin\Debug\tema 1.pdb
+F:\Facultate\FP-curs\tema 1\tema 1\obj\Debug\tema 1.csprojAssemblyReference.cache
+F:\Facultate\FP-curs\tema 1\tema 1\obj\Debug\tema 1.csproj.CoreCompileInputs.cache
+F:\Facultate\FP-curs\tema 1\tema 1\obj\Debug\tema 1.exe
+F:\Facultate\FP-curs\tema 1\tema 1\obj\Debug\tema 1.pdb
